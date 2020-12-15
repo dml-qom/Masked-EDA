@@ -9,7 +9,7 @@ This code can be run on any text classification dataset.
 First, install HuggingFace transformers:
 <code>pip install transformer</code>
 
-And a machine learning library of your choice (TensorFlow or PyTorch)
+Second, setup a machine learning library of your choice (TensorFlow or PyTorch)
 <code>pip install pytorch</code>
 or
 <code>pip install tensorflow</code>

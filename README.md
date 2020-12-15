@@ -19,4 +19,4 @@ All configurations are similar to original EDA (https://github.com/jasonwei20/ed
 * Note that the mask_model parameter must be one of the listed names. If no model name is provided, it would default to DistilBERT.
 Available models: {'bert', 'roberta', 'distilbert'}
 
-python ./augment.py --input='data/tr_2000.tsv' --output='data/tr2000_aug16.tsv' --mask_model='roberta' --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.1 --alpha_ri=0.4 --alpha_rs=0.1
+<code>python ./augment.py --input='data/tr_2000.tsv' --output='data/tr2000_aug16.tsv' --mask_model='roberta' --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.1 --alpha_ri=0.4 --alpha_rs=0.1</code>

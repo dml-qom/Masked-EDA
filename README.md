@@ -1,6 +1,6 @@
 # Masked-EDA: The Effect of Using Masked Language Models in Random Textual Data Augmentation
 
-The original EDA code is shared here:
+The original Easy Data Augmentation (EDA) code is shared here:
 https://github.com/jasonwei20/eda_nlp
 
 # Masked-EDA Usage

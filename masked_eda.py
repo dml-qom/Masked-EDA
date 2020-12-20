@@ -14,7 +14,7 @@ np.random.seed(100)
 
 # data about available masked models
 unmaskers = {'bert': {'mask_token': '[MASK]', 'model': 'bert-base-uncased'},
-             'roberta': {'mask_token': '<mask>', 'model': 'roberta-base-'},
+             'roberta': {'mask_token': '<mask>', 'model': 'roberta-base'},
              'distilbert': {'mask_token': '[MASK]', 'model': 'distilbert-base-uncased'}}
 
 # Placeholder parameteres, DO NOT TOUCH! These will get filled by main.py

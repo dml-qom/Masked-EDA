@@ -4,7 +4,7 @@ The original Easy Data Augmentation (EDA) code is shared here:
 https://github.com/jasonwei20/eda_nlp
 
 # Masked-EDA Usage
-This code can be run on any text classification dataset.
+This code can be run on any text classification dataset (Check the example file 'data/tr_2000.tsv' for data structure).
 
 First, install HuggingFace transformers:
 <code>pip install transformer</code>
